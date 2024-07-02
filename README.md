@@ -1,4 +1,4 @@
-# Real Time Bus Tracker
+# Real Time Bus Tracking
 
 ## Description of Project:
 This exercise shows how a marker moves through bus stops from MIT to Harvard. The marker moves from one stop to another after certain quantity of seconds.
