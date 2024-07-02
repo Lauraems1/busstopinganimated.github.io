@@ -1,4 +1,4 @@
-# Bus stopping animated
+# Real Time Bus Tracker
 
 ## Description of Project:
 This exercise shows how a marker moves through bus stops from MIT to Harvard. The marker moves from one stop to another after certain quantity of seconds.
